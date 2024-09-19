@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\NUMBER 2 ARSI\bin\Debug\net8.0\NUMBER 2 ARSI.exe
+C:\Users\admin\Desktop\NUMBER 2 ARSI\bin\Debug\net8.0\NUMBER 2 ARSI.deps.json
+C:\Users\admin\Desktop\NUMBER 2 ARSI\bin\Debug\net8.0\NUMBER 2 ARSI.runtimeconfig.json
+C:\Users\admin\Desktop\NUMBER 2 ARSI\bin\Debug\net8.0\NUMBER 2 ARSI.dll
+C:\Users\admin\Desktop\NUMBER 2 ARSI\bin\Debug\net8.0\NUMBER 2 ARSI.pdb
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.AssemblyInfo.cs
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.dll
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\refint\NUMBER 2 ARSI.dll
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.pdb
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\NUMBER 2 ARSI.genruntimeconfig.cache
+C:\Users\admin\Desktop\NUMBER 2 ARSI\obj\Debug\net8.0\ref\NUMBER 2 ARSI.dll

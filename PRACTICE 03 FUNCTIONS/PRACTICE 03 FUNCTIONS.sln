@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRACTICE 03 FUNCTIONS", "PRACTICE 03 FUNCTIONS.csproj", "{376B5407-D71F-4BA8-95F6-70E53DCA5964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUMBER 1 ARSI", "..\NUMBER 1 ARSI\NUMBER 1 ARSI.csproj", "{8EF01D7A-BACB-4734-928A-BD55500DAE80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376B5407-D71F-4BA8-95F6-70E53DCA5964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376B5407-D71F-4BA8-95F6-70E53DCA5964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376B5407-D71F-4BA8-95F6-70E53DCA5964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376B5407-D71F-4BA8-95F6-70E53DCA5964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF01D7A-BACB-4734-928A-BD55500DAE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF01D7A-BACB-4734-928A-BD55500DAE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF01D7A-BACB-4734-928A-BD55500DAE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF01D7A-BACB-4734-928A-BD55500DAE80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5CBEDE-99B5-4D43-96BB-596B3ACA7089}
+	EndGlobalSection
+EndGlobal
